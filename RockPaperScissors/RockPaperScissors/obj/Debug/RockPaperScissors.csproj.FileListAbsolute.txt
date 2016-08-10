@@ -1,0 +1,8 @@
+C:\Users\Drama\AppData\Local\Temporary Projects\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Drama\AppData\Local\Temporary Projects\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+C:\Users\Drama\Desktop\devcodecampprojects\RockPaperScissors\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Drama\Desktop\devcodecampprojects\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+C:\Users\Drama\Desktop\devcodecampprojects\RockPaperScissors\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Drama\Desktop\devcodecampprojects\RockPaperScissors\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Drama\Desktop\devcodecampprojects\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\Drama\Desktop\devcodecampprojects\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
