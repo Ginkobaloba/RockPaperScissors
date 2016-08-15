@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace RockPaperScissors
 {
@@ -13,6 +13,7 @@ namespace RockPaperScissors
         string playerOneName;
         string playerTwoName;
         string weaponType;
+        bool runGame;
         public void RunGame()
         {
 
@@ -39,6 +40,7 @@ namespace RockPaperScissors
                 playerTwoName = Console.ReadLine();
                 this.playerTwo = new player(playerTwoName);
                 Console.WriteLine("Thank you, {0}", playerTwoName);
+                Console.Clear();
             }
             if (playerOne.GetWeaponStatus() == 0)
                 {
@@ -67,6 +69,7 @@ namespace RockPaperScissors
             if (weaponType == "rock" || weaponType == "scissors" || weaponType == "paper")
             {
                 playerOne.assignWeapon(weaponType);
+                Console.Clear();
             }
             else
             {
@@ -75,7 +78,8 @@ namespace RockPaperScissors
             }    
 
         }
-        public void playerTwoTurn()
+
+            public void playerTwoTurn()
         {
             Console.WriteLine("{0} Would you like Rock, Paper or Scissors?:", playerTwoName);
             string line = Console.ReadLine();
@@ -83,6 +87,7 @@ namespace RockPaperScissors
             if (weaponType == "rock" || weaponType == "scissors" || weaponType == "paper")
             {
                 playerTwo.assignWeapon(weaponType);
+                Console.Clear();
             }
             else
             {
